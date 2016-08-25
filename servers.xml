@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+		<!-- Name of your service. -->
+		<name>DuckDuckGo</name>
+		<!-- IP of your service. (Only IPv4.)-->
+		<host>46.51.197.89</host>
+		<!-- Port of your service. (If your service is a website use "80".) -->
+		<port>80</port>
+	</server>
+	<server>
+		<name>Other server</name>
+		<host>000.000.000.000</host>
+		<port>00000</port>
+	</server>
+	<!------------------------------------------
+	
+	Copy/Paste this for add a new service :
+
+	<server>
+		<name>My service</name>
+		<host>000.000.000.000</host>
+		<port>00000</port>
+	</server>
+
+	------------------------------------------>
+</servers>
